@@ -26,5 +26,7 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.3"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/LekoArts/gatsby-starter-portfolio-cara"
 }
